@@ -66,3 +66,9 @@ Passo a passo para abrir o código usando o Anaconda, certifique-se que possua o
     ```
    
 7. Observação: O arquivo .ipynb e a base de dados mpeg7_mod devem estar no mesmo diretório, caso não, o ds_path do arquivo jupyter deve ser modificado.
+
+
+## Participantes
+Brenno Alves Silva - 7000
+
+Marcus Vinicius Diniz dos Reis - 8151
